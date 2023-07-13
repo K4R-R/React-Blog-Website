@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <div className="content">
         <Switch>
-          <Route exact path="/React-Blog-Website/">
+          <Route exact path="/">
             <Home />
           </Route>
           <Route exact path="/create">
